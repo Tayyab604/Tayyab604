@@ -18,7 +18,6 @@ Proficient in **React.js**, I combine creativity and functionality to bring idea
 ## 📫 **Get in Touch**
 📫 **How to reach me**: [Email me](mailto:tayyab1612639@gmail.com)  
 🔗 **Connect with me on LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-tayyab-061904274/))  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-tayyab-061904274/)) 
 
 ---
 
