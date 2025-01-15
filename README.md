@@ -9,10 +9,10 @@ Proficient in **React.js**, I combine creativity and functionality to bring idea
 ### **Frontend**
 - **Languages**: HTML5, CSS3, JavaScript (ES6+)
 - **Frameworks & Libraries**: React.js, Tailwind CSS, Chakra UI, Bootstrap
-- **Tools**: Figma, Git
+- **Tools**: Figma, Github
 
 ### **Backend**
-- **Basic Knowledge**: Next.js (SSR, CSR), Node.js, MongoDB
+- **Basic of**: Next.js (SSR, CSR), Node.js, MongoDB
 - **API**: RESTful APIs
 
 ## 📫 **Get in Touch**
